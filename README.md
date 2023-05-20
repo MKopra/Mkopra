@@ -1,7 +1,7 @@
 
 
 - [LinkedIn](https://www.linkedin.com/in/matt-kopra-7a5851212/)
-- [Email: matt.kopra@gmail.com](gmail.com)
+- [Email: matt.kopra@gmail.com](https://www.gmail.com)
 
 ## Languages and Frameworks
 
@@ -10,8 +10,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
 
-<br></br>
-<br></br>
+
 <br></br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mkopra&theme=highcontrast&show_icons=true&count_private=true)
