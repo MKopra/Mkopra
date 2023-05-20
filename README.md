@@ -5,13 +5,14 @@
 
 ## Languages and Frameworks
 
-<img align="left" alt="Python" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=512)" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=512" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://mobilecoderz.com/images/services/flutter/flutter.png" style="padding-right:10px;" />
+
 
 <br></br>
-
+<br></br>
+<br></br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mkopra&theme=highcontrast&show_icons=true&count_private=true)
 ![Leetcode stats](https://leetcard.jacoblin.cool/mkopra?theme=dark)
