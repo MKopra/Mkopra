@@ -1,7 +1,7 @@
 
 
 - [LinkedIn](https://www.linkedin.com/in/matt-kopra-7a5851212/)
-- [Email](matt.kopra@gmail.com)
+- [Email: matt.kopra@gmail.com](gmail.com)
 
 ## Languages and Frameworks
 
